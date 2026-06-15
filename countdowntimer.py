@@ -14,7 +14,3 @@ while second>-1: #after the countdown gets to 0, the program completely stops
     second=second-1 #used for counting down
 
 print("Countdown finished")
-#let's test it out
-#the program is successful
-#thanks for watching, don't forget to like, share and subscribe
-#have a great day, see you in the next video
